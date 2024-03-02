@@ -1,0 +1,158 @@
+<html>
+  <head>
+   <link href="https://fonts.cdnfonts.com/css/julius-sans-one-2" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/inter?styles=29132" rel="stylesheet">
+  </head>
+  <body>
+  <header>
+    <ul id="navbar">
+      <li><a href="#">Исполнители</a></li>
+      <li><a href="#">В начало</a></li>
+      <li><a href="#">О нас</a></li>
+    </ul>
+   </header>
+    <div id="st">
+      <div id="tx" >
+        <h1>STRAY KIDS</h1>
+    <h2>Stray Kids (кор: 스트레이키즈) - мужская группа компании JYP Entertainment. Группа была сформирована Бан Чаном (лидером группы), который сначала сформировал подгруппу 3RACHA, а после присоединил других участников. Далее через одноименное реалити-шоу группа проходила различные испытания, чтобы вместе дебютировать на Mnet.</h2>
+      </div>
+      </div> 
+    <div class="kp">
+      <div class="tm">
+        <div class="otc">
+    <h3 style="margin-left:7%;">Bang Chan</h3>
+    <h3 style="margin-left:14%;">방찬</h3>
+    </div>
+    <h2>Бан Чан - южнокорейско-австралийский<br>певец, рэпер, продюсер, композитор и автор<br>песен компании JYP Entertainment. Он<br>является лидером мужской группы Stray kids<br>и хип-хоп команды 3RACHA.<br><br>
+
+Дата рождения: 03.10.1997<br><br>
+
+Позиция в группе: Лидер, ведущий вокалист,<br>ведущий танцор, рэпер, продюсер.
+</h2> </div>
+        <div class="img_bang"><a href='https://postimg.cc/bZ3LVF0K' target='_blank'><img class="img-band-photo" src='https://i.postimg.cc/5tMG0hXN/1.png' border='0' alt='1'/></a>
+      </div>
+      <hr>
+   </div>
+    <div class="kp">
+    <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:62%;">Lee Know</h3>
+    <h3 style="margin-left:65%;">리노</h3>
+      </div>
+  <h2 style="margin-left:55%;">Ли Ноу - южнокорейский певец, рэпер, автор песен, композитор и ведущий компании JYP Entertainment. Он является участником мужской группы Stray kids.<br><br>
+
+Дата рождения: 25.10.1998<br><br>
+
+Позиция в группе: Главный танцор, рэпер,<br>саб-вокалист.
+</h2>
+      </div>
+      <div class="img_know"> <a href='https://postimg.cc/T5RvpLSt' target='_blank'><img class="img-know-photo" src='https://i.postimg.cc/2yWk9nxN/image.png' border='0' alt='image'/></a>
+    </div>
+      <hr>
+    </div>
+    <div class="kp">
+      <div class="tm">
+<div class="otc">
+    <h3 style="margin-left:7%;">Seo ChangBin</h3>
+    <h3 style="margin-left:14%;">창빈</h3>
+      </div>
+    <h2>Чанбин - южнокорейский рэпер, певец,<br>продюсер, композитор и автор песен<br>компании JYP Entertainment.Он является участником<br>мужской группы Stray kids и<br>хип-хоп команды 3RACHA.<br><br>
+
+Дата рождения: 11.08.1999<br><br>
+
+Позиция в группе: Главный рэпер, продюсер.
+    </h2>
+        </div>
+      <div class="img_seo"> <a href='https://postimg.cc/6TvLjb8L' target='_blank'><img class="img-seo-photo" src='https://i.postimg.cc/jq8gjGK9/image.png' border='0' alt='image'/></a>
+    </div>
+    <hr>
+      </div>
+    <div class="kp">
+      <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:62%;">Hwang Hyunjin</h3>
+    <h3 style="margin-left:69%;">황현진</h3>
+     </div>
+    <h2 style="margin-left:55%;">Хёнджин (현진) - южнокорейский рэпер, танцор, автор песен, композитор, актёр и ведущий компании JYP Entertainment. Он является участником мужской группой Stray kids.<br><br>
+
+Дата рождения: 20.03.2000<br><br>
+
+Позиция в группе: Главный танцор, ведущий рэпер, саб-вокалист.
+    </h2>
+        </div>
+      <div class="img_hwang">
+    <a href='https://postimg.cc/18w1PV9V' target='_blank'><img class="img-hwang-photo" src='https://i.postimg.cc/zGPzCT67/image.png' border='0' alt='image'/></a> 
+  </div>
+    <hr>
+    </div>
+    <div class="kp">
+      <div class="tm">
+   <div class="otc">
+    <h3 style="margin-left:7%;">Han Jisung</h3>
+    <h3 style="margin-left:12%;">한지성</h3>
+    </div> 
+    <h2>Хан (한) - южнокорейский рэпер, певец, автор<br>песен, композитор и продюсер компании JYP<br>Entertainment. Он является участником<br>мужской группы Stray kids и хип-хоп команды<br>3RACHA.<br><br>
+
+Дата рождения: 14.09.2000<br><br>
+
+Позиция в группе: Главный рэпер, ведущий<br>вокалист, продюсер.
+</h2>
+        </div>
+      <div class="img_jisung"> <a href='https://postimg.cc/8sX7f9LB' target='_blank'><img class="img-han-photo" src='https://i.postimg.cc/wTgLZdvP/image.png' border='0' alt='image'/></a>
+  </div>
+    <hr>
+      </div>
+    <div class="kp">
+      <div class="tm">
+     <div class="otc">
+    <h3 style="margin-left:62%;">Lee Felix</h3>
+    <h3 style="margin-left:64%;">필릭스</h3>
+     </div>
+    <h2 style="margin-left:55%;">Феликс - южнокорейско-австралийский рэпер, танцор, ведущий, композитор и автор песен компании JYP Entertainment. Он является участником мужской группы Stray kids.<br><br>
+
+Дата рождения: 15.09.2000<br><br>
+
+Позиция в группе:Ведущий танцор, ведущий рэпер, саб-вокалист.
+</h2>
+        </div>
+      <div class="img_felix"> <a href='https://postimg.cc/fV22GwdS' target='_blank'><img class="img-felix-photo" src='https://i.postimg.cc/CKY3f5L7/image.png' border='0' alt='image'/></a>
+  </div>
+    <hr>
+      <div>
+        <div class="kp">
+          <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:7%;">Kim Seungmin</h3>
+    <h3 style="margin-left:14%;">김승민</h3>
+    </div>
+    <h2>Сынмин - южнокорейский певец, композитор,<br>автор песен и ведущий компании JYP<br>Entertainment. Он является участником<br>мужской группы Stray kids.<br><br>
+
+Дата рождения: 22.09.2000<br><br>
+
+Позиция в группе:Главный вокалист.
+    </h2>
+     </div>
+   <div class="img_kim"> <a href='https://postimg.cc/S2vz4vrr' target='_blank'><img class="img-kim-photo" src='https://i.postimg.cc/pr2QfN5g/image.png' border='0' alt='image'/></a>
+  </div>
+    <hr>
+    </div>
+        <div class="kp">
+          <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:62%;">Yang Jeongin</h3>
+    <h3 style="margin-left:69%;">양정인</h3>
+     </div>
+    <h2 style="margin-left:55%;">I.N - южнокорейский певец, композитор, автор песен и актёр компании JYP Entertainment. Он является участником и макнэ мужской группы Stray kids.<br><br>
+
+Дата рождения: 08.02.2001<br><br>
+
+Позиция в группе: Ведущий вокалист, макнэ.
+</h2>
+  </div>
+ <div class="img_yang"> <a href='https://postimg.cc/8svCscPD' target='_blank'><img class="img-yang-photo"src='https://i.postimg.cc/HWZ8Z8qJ/image.png' border='0' alt='image'/></a>
+    </div>
+    <hr>
+        </div>
+      
+  </body>
+</html>
