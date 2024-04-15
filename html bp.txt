@@ -1,0 +1,97 @@
+<html>
+  <head>
+   <link href="https://fonts.cdnfonts.com/css/julius-sans-one-2" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/inter?styles=29132" rel="stylesheet">
+  </head>
+  <body>
+  <header>
+    <ul id="navbar">
+      <li><a href="#">Исполнители</a></li>
+      <li><a href="#">В начало</a></li>
+      <li><a href="#">О нас</a></li>
+    </ul>
+   </header>
+    <div id="st">
+      <div id="tx" >
+        <h1>BLACKPINK</h1>
+    <h2>BLACKPINK (블랙핑크; стилизовано как BLΛƆKPIИK) - женская группа из четырёх участниц компании YG Entertainment. Их дебют официально состоялся 8 августа 2016 года с сингловым альбомом "Square One".</h2>
+      </div>
+      </div> 
+    <div class="kp">
+      <div class="tm">
+        <div class="otc">
+    <h3 style="margin-left:7%;">Kim Ji-soo</h3>
+    <h3 style="margin-left:14%;">김지수</h3>
+    </div>
+    <h2>Джису - южнокорейская певица, актриса, модель и <br> автор песен. Она является участницей женской <br> группы BLACKPINK. <br>
+Дебютировала в качестве сольной исполнительницы <br> 31 марта 2023 года с первым сингловым альбомом <br>“Me”.<br><br>
+
+Дата рождения: 03.01.1995<br><br>
+
+Позиция в группе: Ведущая вокалистка, вижуал.
+</h2> </div>
+        <div class="img_ji"><a href='https://postimg.cc/ZWSdqdJN' target='_blank'><img class="img-ji-photo" src='https://i.postimg.cc/Njy7p6Vd/1.png' border='0' alt='1'/></a>
+      </div>
+      <hr>
+   </div>
+    <div class="kp">
+    <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:62%;">Kim Jennie</h3>
+    <h3 style="margin-left:67%;">김제니</h3>
+      </div>
+  <h2 style="margin-left:55%;">Дженни - южнокорейская певица, рэпер и актриса <br> компании ODD ATELIER. Она является участницей <br> женской группы BLACKPINK. <br>
+Дебютировала сольно 12 ноября 2018 года с синглом "Solo".<br><br>
+
+Дата рождения: 16.01.1996<br><br>
+
+Позиция в группе: Главный рэпер, ведущая <br> вокалистка.
+      </h2>
+      </div>
+      <div class="img_know"><a href='https://postimg.cc/ftRHrby3' target='_blank'><img class="img-know-photo"src='https://i.postimg.cc/qR89ghdG/1.png' border='0' alt='1'/></a>
+    </div>
+      <hr>
+    </div>
+    <div class="kp">
+      <div class="tm">
+<div class="otc">
+    <h3 style="margin-left:7%;">Park Chae-young</h3>
+    <h3 style="margin-left:20%;">박채영</h3>
+      </div>
+    <h2>Розэ - южнокорейско-австралийская певица и модель.<br> Она является участницей женской группы BLACKPINK.<br>
+Дебютировала в качестве сольной исполнительницы <br> 12 марта 2021 года с сингловым альбомом "R". <br><br>
+
+Дата рождения: 11.02.1997<br><br>
+
+Позиция в группе: Главная вокалистка, ведущий <br> танцор.
+    </h2>
+        </div>
+      <div class="img_seo"><a href='https://postimg.cc/NKW9nC0R' target='_blank'><img class="img-seo-photo" src='https://i.postimg.cc/MGG7vh23/1.png' border='0' alt='1'/></a><br>
+    </div>
+    <hr>
+      </div>
+    <div class="kp">
+      <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:62%;">Lalisa Manoban</h3>
+    <h3 style="margin-left:61%;">ปราณปริยา มโนบาล</h3>
+     </div>
+    <h2 style="margin-left:55%;">Лиса - тайская певица, танцор и рэпер <br> компании LLOUD. Она является участницей женской группы BLACKPINK. <br>
+Она дебютировала сольно 10 сентября 2021 года со своим первым сингловым альбомом "Lalisa".<br><br>
+
+Дата рождения: 27.03.1997<br><br>
+
+Позиция в группе: Главный танцор, ведущий рэпер, макнэ.
+    </h2>
+        </div>
+      <div class="img_hwang">
+    <a href='https://postimg.cc/NKGpMM8d' target='_blank'><img class="img-hwang-photo" src='https://i.postimg.cc/YCYVdLvB/1.png' border='0' alt='1'/></a>
+  </div>
+    <hr>
+    </div>
+    <footer>
+  <p>Author: Hege Refsnes<br>
+  <a href="mailto:hege@example.com">hege@example.com</a></p>
+</footer>
+  </body>
+</html>

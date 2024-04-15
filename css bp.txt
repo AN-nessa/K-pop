@@ -1,0 +1,142 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+/*   height: 100%; */
+  width: 100vw;
+}
+body{
+  overflow-x: hidden;
+  background-color:#F2BBBB;
+}
+header{
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  height: 110px;
+  display: flex;
+  width: 100%;
+}
+.shapka{
+  width: 100%;  
+}
+#navbar {
+  margin: 0;
+  margin-top: 0;
+  padding: 0;
+  height: 110px;
+  width: 100%;
+  background-color: #000;
+  overflow: hidden;
+  font-family: 'Inter', sans-serif;
+}
+#navbar li{
+  margin: 0;
+  list-style-type: none;
+  float: right;
+  text-align: center;
+  padding: 45px 71px;
+  text-decoration: none;
+  font-size: 20px;
+}
+#navbar li:hover {
+  background-color: #A9A9A9;
+  color: black;
+}
+a{
+  color: #f2f2f2;
+  text-decoration: none;
+}
+h2{
+ font-family: 'Inter', sans-serif; 
+ color: #FFF;
+ font-size: 36px;
+}
+ hr {
+    border: none; 
+    color: #000; 
+    background-color: #000; 
+    height: 3px;
+    position: absolute;
+    top:auto;
+    left: 0;
+    width:100%;
+   }
+h3{
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 64px;
+  color: #FFF;
+}
+.otc{
+  line-height: 0.9em;
+}
+#st{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: flex-end;
+  border-bottom: 3px solid black;
+  height:800px;
+  background-image: url("https://i.postimg.cc/90hCNYJZ/image.jpg");
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover; 
+  background-position: center;
+}
+#tx{
+    position: absolute;
+}
+#tx h1{
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 96px;
+  margin-left: 35%;
+  margin-bottom: 100px;
+  color: #F57272;
+  -webkit-text-stroke: 0.2px #000;
+}
+.tm{
+ height: 680px;
+}
+.img_ji{
+  float:right;
+  clear:right;
+  margin-top:-744px;
+ }
+.img-ji-photo{
+  height: 752px;
+}
+.img_know{
+  float: left;
+  clear: left;
+  margin-top:-736px;
+}
+.img-know-photo{
+  height: 748px;
+}
+.img_seo{
+  float :right;
+  clear: right;
+  margin-top:-759px;
+} 
+.img-seo-photo{
+  height: 769px;
+}
+.img_hwang{
+  float:left;
+  clear:left;
+  margin-top:-748px;
+}
+.img-hwang-photo{
+   height: 750px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #000;
+  right: 0;
+  bottom: 0;
+  color: #fff;
+  height: 90px;
+  padding-top: 10px;
+  width:100%;
+  bottom: 0;
+}
