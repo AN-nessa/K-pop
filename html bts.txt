@@ -1,0 +1,144 @@
+<html>
+  <head>
+   <link href="https://fonts.cdnfonts.com/css/julius-sans-one-2" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/inter?styles=29132" rel="stylesheet">
+  </head>
+  <body>
+  <header>
+    <ul id="navbar">
+      <li><a href="#">Исполнители</a></li>
+      <li><a href="#">В начало</a></li>
+      <li><a href="#">О нас</a></li>
+    </ul>
+   </header>
+    <div id="st">
+      <div id="tx" >
+        <h1>BTS</h1>
+    <h2>BTS (корейский: 방탄소년단) - мужская группа из семи участников компании BigHit Music. Они дебютировали 13 июня 2013 года с синглом "No More Dream". В Японии их дебют состоялся 24 декабря 2014 года с студийным альбомом Wake Up.
+</h2>
+      </div>
+      </div> 
+    <div class="kp">
+      <div class="tm">
+        <div class="otc">
+    <h3 style="margin-left:7%;">Kim Seok-Jin</h3>
+    <h3 style="margin-left:14%;">김석진</h3>
+    </div>
+    <h2>Джин - южнокорейский певец, автор песен и<br>актер компании BigHit Music. Он является<br>старшим участником мужской группы BTS.<br>Он дебютировал сольно с синглом "The<br>Astronaut" 28 октября 2022 года.<br><br>
+Дата рождения: 04.12.1992<br><br>
+
+Позиция в группе: Вижуал, саб-вокалист.
+</h2> </div>
+        <div class="img_bang"><a href='https://postimg.cc/LJ2JSFVB' target='_blank'><img class="img-band-photo" src='https://i.postimg.cc/9QqZGWRS/1.png' border='0' alt='1'/></a>
+      </div>
+      <hr>
+   </div>
+    <div class="kp">
+    <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:62%;">Min Yoon-Gi</h3>
+    <h3 style="margin-left:65%;">민윤기</h3>
+      </div>
+  <h2 style="margin-left:55%;">Шуга - южнокорейский рэпер, автор песен, композитор и продюсер компании BigHit Music. Он является участником мужской группы BTS.
+Он выпустил свой первый микстейп Agust D 16 августа 2016 года. Затем он официально дебютировал сольно со своим первым полноформатным альбомом D-Day 21 апреля 2023 года.<br><br>
+
+Дата рождения: 09.03.1993<br><br>
+
+Позиция в группе: Ведущий рэпер.
+</h2>
+      </div>
+      <div class="img_know"><a href='https://postimg.cc/S2hS6WtL' target='_blank'><img class="img-know-photo" src='https://i.postimg.cc/fL3VhCcP/1.png' border='0' alt='1'/></a>
+    </div>
+      <hr>
+    </div>
+    <div class="kp">
+      <div class="tm">
+<div class="otc">
+    <h3 style="margin-left:7%;">Jung Ho-seok</h3>
+    <h3 style="margin-left:14%;">정호석</h3>
+      </div>
+    <h2>Джей-Хоуп - южнокорейский певец, рэпер, танцор,<br>продюсер и автор песен компании BigHit Music. Он<br>является участником мужской группы BTS.<br>Он выпустил свой первый сольный микстейп Hope<br>World 2 марта 2018 года, и официально дебютировал<br>со своим первым сольным альбомом Jack In The<br>Box 15 июля 2022 года.<br><br>
+
+Дата рождения: 18.02.1994<br><br>
+
+Позиция в группе: Главный танцор, саб-рэпер, саб-вокалист.
+    </h2>
+        </div>
+      <div class="img_seo"><a href='https://postimg.cc/qtfCzDyj' target='_blank'><img class="img-seo-photo" src='https://i.postimg.cc/3wNjfPR5/1.png' border='0' alt='1'/></a>
+    </div>
+    <hr>
+      </div>
+    <div class="kp">
+      <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:62%;">Kim Nam-joon</h3>
+    <h3 style="margin-left:69%;">김남준</h3>
+     </div>
+    <h2 style="margin-left:55%;">RM - южнокорейский рэпер, танцор, автор песен, композитор и продюсер компании BigHit Music. Он является участником и лидером мужской группы BTS. Он официально дебютировал в качестве сольного исполнителя 2 декабря 2022 года со своим первым студийным альбомом Indigo.<br><br>
+
+Дата рождения: 12.09.1994<br><br>
+
+Позиция в группе: Лидер, главный рэпер.
+    </h2>
+        </div>
+      <div class="img_hwang"><a href='https://postimg.cc/BjRwt3mk' target='_blank'><img class="img-hwang-photo" src='https://i.postimg.cc/VNNyGLnf/Group-16-1.png' border='0' alt='Group-16-1'/></a>
+  </div>
+    <hr>
+    </div>
+    <div class="kp">
+      <div class="tm">
+   <div class="otc">
+    <h3 style="margin-left:7%;">Park Ji-min</h3>
+    <h3 style="margin-left:12%;">박지민</h3>
+    </div> 
+    <h2>Чимин - южнокорейский певец, танцор и автор<br>песен компании BigHit Music. Он является<br>участником мужской группы BTS.<br>Он дебютировал сольно с мини-альбомом Face 24<br>марта 2023 года.<br><br>
+
+Дата рождения: 13.10.1995<br><br>
+
+Позиция в группе: Главный танцор, ведущий вокалист.
+</h2>
+        </div>
+      <div class="img_jisung"><a href='https://postimg.cc/Q9FtmpQH' target='_blank'><img class="img-han-photo" src='https://i.postimg.cc/cHmnsh6M/Group-17-1.png' border='0' alt='Group-17-1'/></a>
+  </div>
+    <hr>
+      </div>
+    <div class="kp">
+      <div class="tm">
+     <div class="otc">
+    <h3 style="margin-left:62%;">Kim Tae-Hyung</h3>
+    <h3 style="margin-left:67%;">김태형</h3>
+     </div>
+    <h2 style="margin-left:55%;">V - южнокорейский певец, композитор, автор песен, продюсер и актёр компании BigHit Music. Он является участником мужской группы BTS. Дебютировал в качестве сольного исполнителя 8 сентября 2023 года с мини-альбомом Layover.<br><br>
+
+Дата рождения: 30.12.1995<br><br>
+
+Позиция в группе: Главный танцор, саб-вокалист.
+</h2>
+        </div>
+      <div class="img_felix"><a href='https://postimg.cc/4YnVqhQR' target='_blank'><img class="img-felix-photo" src='https://i.postimg.cc/6pfc7r7q/Group-18-1.png' border='0' alt='Group-18-1'/></a><br/>
+  </div>
+    <hr>
+      <div>
+        <div class="kp">
+          <div class="tm">
+    <div class="otc">
+    <h3 style="margin-left:7%;">Jeon Jeong-guk</h3>
+    <h3 style="margin-left:14%;">전정국</h3>
+    </div>
+    <h2>Чонгук - южнокорейский певец, танцор, автор<br>песен и продюсер компании BigHit Music. Он<br>является макнэ группы BTS. Он дебютировал<br>сольно 14 июля 2023 года со студийным альбомом<br>"Golden".<br><br>
+
+Дата рождения: 01.09.1997<br><br>
+
+Позиция в группе: Главный вокалист, ведущий<br>танцор, саб-рэпер, центр, макнэ.
+    </h2>
+     </div>
+   <div class="img_kim"><a href='https://postimg.cc/rDWFDV8t' target='_blank'><img class="img-kim-photo" src='https://i.postimg.cc/HkvJPnR3/Group-19-1.png' border='0' alt='Group-19-1'/></a>
+  </div>
+    <hr>
+    </div>
+        <footer>
+  <p>Author: Hege Refsnes<br>
+  <a href="mailto:hege@example.com">hege@example.com</a></p>
+</footer>
+  </body>
+</html>
