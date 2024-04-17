@@ -95,7 +95,8 @@ K-poр включает в себя танцевальную <br>
 </body>
 <footer>
     <p>Наш вк:<br>
-        <p1> Назаренко Анастасия <br> Западня Екатерина</p1>
+      <a href="https://vk.com/nessa0813">Назаренко Анастасия</a> <br>
+      <a href="https://vk.com/juice_like">Западня Екатерина </a>
     </p>
 </footer>
 
