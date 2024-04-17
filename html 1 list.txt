@@ -1,0 +1,102 @@
+<html>
+
+<head>
+    <link href="https://fonts.cdnfonts.com/css/julius-sans-one-2" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/inter?styles=29132" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <header>
+        <ul id="navbar">
+            <li><a href="#">Исполнители</a></li>
+            <li><a href="#">В начало</a></li>
+            <li><a href="#">О нас</a></li>
+        </ul>
+    </header>
+    <div id="st">
+        <div id="tx">
+            <nobr>
+                <h1>K-pop</h1>
+            </nobr>
+            <nobr>
+                <h4>ЛУЧШИЕ ИСПОЛНИТЕЛИ</h4>
+            </nobr>
+        </div>
+    </div>
+    <div class="tm">
+        <h2 style="margin-left:55%;"> <br>  K-POP — музыкальный жанр, который <br> стремительно набирает популярность.<br> 
+K-poр включает в себя танцевальную <br> 
+поп-музыку, поп-баллады, техно, рок,<br>  
+хип-хоп, R&B и многие другие течения.<br> 
+Поначалу направление сформировалось в Южной Корее как<br>  часть современной национальной<br>  культуры, а позднее как<br>  неотъемлемый элемент Халлю.<br>  Впервые это понятие появилось в<br>  статье, опубликованной на Billboard в 1999 году. 
+        </h2>
+    </div>
+    <div class="img_know"> <a href='https://postimg.cc/vDrPh8vJ' target='_blank'><img class="img-know-photo"
+                src='https://i.postimg.cc/053L8bKy/image-1.png' border='0' alt='image-1' /></a>
+    </div>
+
+    <div class="tm">
+        <div class="otc">
+        </div>
+        <h3 style="margin-left:3%;"><br> K-POP IDOLS — знаменитые<br>  исполнители k-pop, которые состоят в<br>  популярных группах или выступают<br>  сольно. Главная задача айдола —<br>  быть “идеальным”. Им надо отлично<br>  танцевать, уверенно держаться на<br>  публике, справляться с физическими<br>  нагрузками и психологическим<br>  давлением, а главное — никогда не<br>  выходить из образа, оставаясь<br>  безупречным как внешне, так и<br>  морально.
+        </h3>
+    </div>
+    <div class="img_bang"><a href='https://postimg.cc/xk0YjjPM' target='_blank'><img class="img-band-photo"
+                src='https://i.postimg.cc/VNtNRdrG/image-2.png' border='0' alt='image-2' /></a>
+    </div>
+    <hr>
+    <div class="cn">
+        <div class="tm1">
+            <div class="bar">
+                <div class="block">
+                    <a href='https://cdpn.io/pen/debug/eYojGZM?authentication_hash=dGMXWpyVXgpk' target='_blank'><img class="gp" src='https://i.postimg.cc/NMdspTDc/image.png' border='0'
+                            alt='image' /></a>
+                </div>
+                <div class="block">
+                    <a href='https://cdpn.io/pen/debug/poBZWyW?authentication_hash=GnMnbWypVmqM' target='_blank'><img class="gp" src='https://i.postimg.cc/j2QkTQWW/image.png' border='0'
+                            alt='image' /></a>
+                </div>
+                <div class="block">
+                    <a href='https://cdpn.io/pen/debug/PogBJNZ?authentication_hash=mWAoNBQpbYpr' target='_blank'><img class="gp" src='https://i.postimg.cc/q7PmCZyh/image.png' border='0'
+                            alt='image' /></a>
+                </div>
+            </div>
+            <div class="ghj">
+                <div class="bar1">
+                    <div class="block">
+                        <a href='https://postimg.cc/qtQnbRR7' target='_blank'><img class="gp"
+                                src='https://i.postimg.cc/LXFTsgFj/image.png' border='0' alt='image' /></a>
+                    </div>
+                    <div class="block">
+                        <a href='https://postimg.cc/XpMZgF88' target='_blank'><img class="gp"
+                                src='https://i.postimg.cc/Dy0qnP4t/image.png' border='0' alt='image' /></a>
+                    </div>
+                    <div class="block">
+                        <a href='https://postimg.cc/p91r5nrK' target='_blank'><img class="gp"
+                                src='https://i.postimg.cc/bJqtMxjV/image.png' border='0' alt='image' /></a>
+                    </div>
+                    <div class="block">
+                        <a href='https://postimg.cc/pptTjvWc' target='_blank'><img class="gp"
+                                src='https://i.postimg.cc/CLRfWMW0/image.png' border='0' alt='image' /></a>
+                    </div>
+                    <div class="block">
+                        <a href='https://postimg.cc/18m3WKNp' target='_blank'><img class="gp"
+                                src='https://i.postimg.cc/MpRfpP6r/image.png' border='0' alt='image' /></a>
+                    </div>
+                    <div class="block">
+                        <a href='https://postimg.cc/c6WCgZ49' target='_blank'><img class="gp"
+                                src='https://i.postimg.cc/tRZxc40j/image.png' border='0' alt='image' /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<footer>
+    <p>Наш вк:<br>
+        <p> Назаренко Анастасия <br> Западня Екатеринаm</p>
+    </p>
+</footer>
+
+</html>
