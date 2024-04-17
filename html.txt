@@ -154,8 +154,8 @@
     <hr>
         </div>
       <footer>
-  <p>Author: Hege Refsnes<br>
-  <a href="mailto:hege@example.com">hege@example.com</a></p>
+  <p>НАш вк:<br>
+  <p1> Назаренко Анастасия <br> Западня Екатерина</p1></p>
 </footer>
   </body>
 </html>
